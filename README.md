@@ -1,4 +1,4 @@
-# 💡 Design Pattern: Factory (Java)
+# 💡 Design Pattern: Simple Factory (Java)
 
 Este repositório demonstra a aplicação do **padrão de projeto Factory* utilizando Java puro.
 O padrão Factory encapsula a criação de objetos em uma classe chamada *Factory*, permitindo ao sistema decidir em tempo de execução qual instância de classe concreta deve ser retornada.
@@ -23,7 +23,7 @@ design-patterns-factory/
 │               └── Main.java              <- Classe com o exemplo funcional
 ├── .gitignore
 ├── README.md
-└── pom.xml (se for Maven) / build.gradle (se for Gradle)
+└── pom.xml 
 ```
 
 ---
